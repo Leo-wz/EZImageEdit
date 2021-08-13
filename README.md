@@ -42,4 +42,4 @@ or "Bicubic (very slow)."
 
 >Once the image is rendered, OS file explorer will prompt you to save the result to your specified directory.
 
-Thanks, and have a nice day!
+
