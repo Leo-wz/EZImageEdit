@@ -1,10 +1,6 @@
 from cmu_112_graphics import *
 import numpy as np
 import cv2
-#3 Sample images included for testing purposes
-#Sample 1 https://fujifilm-x.com/wp-content/uploads/2021/01/gfx100s_sample_04_thum-1.jpg
-#Sample 2 https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpeg
-#Sample 3 https://washingtonindependent.com/static/ac690e6551a36b0b9e50e370b0827be0/465f1/luca-bravo-zajdgnxsmeg-unsplash.webp
 
 ##########################################
 # Welcome Screen Mode
