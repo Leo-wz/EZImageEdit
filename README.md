@@ -2,6 +2,7 @@
 A lightweight python image editing program
 
 Requires the following modules to be installed:
+
 -cmu_112_graphics (script incluede)
 
 -numpy
